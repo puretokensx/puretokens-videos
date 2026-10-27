@@ -9,6 +9,7 @@ Pure Tokens 教程原视频的统一公开分享入口。今后新增视频统�
 | ChatGPT + DeepSeek 原视频 | 173.97 MB | [下载原视频](https://github.com/puretokensx/puretokens-videos/releases/download/v1.0.0/chatgpt-deepseek.mp4) |
 | Pure Tokens 客户端使用教程 | 592.26 MB | [下载原视频](https://github.com/puretokensx/puretokens-videos/releases/download/v1.0.0/puretokens-client-usage.mp4) |
 | Skill 使用教程 | 380.71 MB | [下载原视频](https://github.com/puretokensx/puretokens-videos/releases/download/v1.0.0/skill.mp4) |
+| Codex 安装教程 | 218.55 MB | [下载原视频](https://github.com/puretokensx/puretokens-videos/releases/download/v1.0.0/codex-installation.mp4) |
 
 文件保持原视频内容，不进行压缩或转码。`videos.json` 记录文件名、字节数、SHA-256 与下载地址。MB 按 1,000,000 字节计算。
 
